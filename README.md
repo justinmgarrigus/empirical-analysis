@@ -3,6 +3,7 @@
 Clone the project with: 
 ```
 $ git clone https://github.com/justinmgarrigus/empirical-analysis.git
+$ cd empirical-analysis
 $ git submodule init
 $ git submodule update
 ```
