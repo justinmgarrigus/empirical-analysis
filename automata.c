@@ -65,7 +65,7 @@ typedef unsigned data_t;
     #define CLOSE_GIF_FUNC(a) (close_gif(a))
 #else
     typedef void *ge_GIF; // Unused;
-    #define CREATE_GIF_FUNC(a) NULL
+    #define CREATE_GIF_FUNC(a, b) NULL
     #define DRAW_FUNC(a, b) NOP
     #define CLOSE_GIF_FUNC(a) NOP 
 #endif 
