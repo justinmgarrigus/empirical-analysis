@@ -12,7 +12,7 @@ from sklearn.linear_model import LinearRegression
 from scipy.stats import ttest_ind, bootstrap 
 
 # Execution flags
-do_system_calls = False 
+do_system_calls = True 
 
 # Event flags
 do_standard_execution = True 
