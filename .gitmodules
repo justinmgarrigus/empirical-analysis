@@ -1,0 +1,6 @@
+[submodule "hashset.c"]
+	path = hashset.c
+	url = https://github.com/avsej/hashset.c.git
+[submodule "gifenc"]
+	path = gifenc
+	url = https://github.com/lecram/gifenc.git
